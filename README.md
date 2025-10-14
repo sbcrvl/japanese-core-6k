@@ -1,1 +1,1 @@
-# Anki-Decks
+# Japanese Core 6000
