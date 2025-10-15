@@ -1,6 +1,6 @@
 #separator:Comma
 #html:false
-#columns:GUID,Deck,Word,WordTranslation,Tags,Cue,CueReading,CueTranslation,Response,ResponseReading,ResponseTranslation
+#columns:GUID,Deck,Cue,Response,Tags,SentenceOne,SentenceOneReading,SentenceOneTranslation,SentenceTwo,SentenceTwoReading,SentenceTwoTranslation
 #notetype:Japanese Core
 #deck:Japanese Core 1000
 #deck column:2
